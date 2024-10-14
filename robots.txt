@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://zibekokoneve.pages.dev/sitemap.xml
